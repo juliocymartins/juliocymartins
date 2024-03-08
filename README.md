@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yamashitajulio@gmail.com**
 
-- ⚡ Fun fact **Fun Fact: I'm totally head over heels for data science!**
+- ⚡ Fun fact **I'm totally head over heels for data science!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
