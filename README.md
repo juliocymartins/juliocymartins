@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/juliocymartins?tab=repositories)
 
-- 💬 Ask me about **Python, SQL, PowerBI, Data Analysis, Data Science, Machine Learning and Neural Networks**
+- 💬 Ask me about **Python, SQL, PowerBI, Data Analysis, Data Science, Machine Learning and Deep Learning**
 
 - 📫 How to reach me **yamashitajulio@gmail.com**
 
