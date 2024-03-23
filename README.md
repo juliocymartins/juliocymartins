@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Big Data**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/juliocymartins?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/juliocymartins?tab=repositories)
 
 - 💬 Ask me about **SQL, PowerBI, Data Analysis, Data Engineering, Machine Learning and Neural Networks**
 
