@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, SQL, PowerBI, Data Analysis, Data Science, Machine Learning and Deep Learning**
 
-- 📫 How to reach me **yamashitajulio@gmail.com**
+- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
