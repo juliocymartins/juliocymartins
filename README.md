@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Martins</h1>
-<h3 align="center">A passionate data scientist from Brazil.</h3>
-<img align="right" alt="Coding" width="400" src="https://advdmo.files.wordpress.com/2015/12/tumblr_nwus2ivhmm1uk55dko1_500.gif">
+<h3 align="center">A Data scientist from Brazil.</h3>
 
 - 🌱 I’m currently learning **Big Data**
 
