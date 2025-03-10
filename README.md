@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Martins</h1>
-<h3 align="center">A Data scientist from Brazil.</h3>
+<h3 align="center">An aspiring data scientist from Brazil.</h3>
 
 - 🌱 I’m currently learning **Large Language Model (LLM)**
 
