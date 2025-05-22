@@ -36,7 +36,6 @@ I'm a passionate data enthusiast with a background in Business Information Techn
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github)
 
 #### 🤖 Data Science:
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
