@@ -9,7 +9,7 @@
 <h2 align="center">👋 Hello, I'm Julio Martins</h2>
 <p align="center">
   🎓 Bachelor’s in Business Information Technology (Technologist Degree) | 🌍 Based in Brazil<br>
-  🧠 Data Analyst | 📊 Data Scientist in Training | Python • Power BI • SQL
+  🧠 Data Analyst | 📊 Data Scientist | Python • Power BI • SQL
 </p>
 
 ---
