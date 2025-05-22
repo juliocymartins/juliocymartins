@@ -1,19 +1,101 @@
-<h1 align="center">Hi 👋, I'm Julio Martins</h1>
-<h3 align="center">An aspiring data scientist from Brazil.</h3>
+<!-- GitHub Profile README for Julio Martins -->
 
-- 🌱 I’m currently learning **Large Language Model (LLM)**
-
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/juliocymartins?tab=repositories)
-
-- 💬 Ask me about **Python, SQL, PowerBI, Data Analysis, Data Science, Machine Learning and Deep Learning**
-
-- 📫 How to reach me: yamashitajulio@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/julio-c-y-martins-55469319a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julio-c-y-martins-55469319a" height="30" width="40" /></a>
-<a href="https://kaggle.com/juliocymartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juliocymartins" height="30" width="40" /></a>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:4ca1af&height=200&section=header&text=Julio%20Martins&fontSize=40&fontColor=ffffff" alt="header"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Introduction -->
+<h2 align="center">👋 Hello, I'm Julio Martins</h2>
+<p align="center">
+  🎓 Bachelor’s in Business Information Technology (Technologist Degree) | 🌍 Based in Brazil<br>
+  🧠 Data Analyst | 📊 Data Scientist in Training | Python • Power BI • SQL
+</p>
+
+---
+
+## About Me
+
+I'm a passionate data enthusiast with a background in Business Information Technology. I'm currently focused on developing my skills in:
+
+* **Data Analysis & Visualization**: I love turning data into insights using tools like Python, Pandas, Power BI, and PostgreSQL.
+
+* **Machine Learning & NLP**: My main focus is on classification problems — especially those involving imbalanced data — and natural language processing. I'm working with models like BERT and building LLM-based solutions for tasks such as sentiment analysis and phishing detection. I enjoy refining models through feature selection and hyperparameter tuning.
+
+* **Web Scraping & Data Collection**: I use tools like BeautifulSoup and Selenium to collect real-world data for my projects.
+
+* **Project Portfolio**: I’m constantly improving my portfolio with end-to-end data science projects focused on real-world applications. Some of these include containerized apps using Docker and deployment on Google Cloud Platform (GCP).
+
+---
+
+## 🚀 **Skills & Tools**
+
+#### 💻 Daily Use:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github)
+
+#### 🤖 Data Science:
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat-square&logo=BeautifulSoup)
+![NLTK](https://img.shields.io/badge/-NLTK-black?style=flat-square&logo=NLTK)
+![RegEx](https://img.shields.io/badge/-RegEx-black?style=flat-square)
+
+#### 📊 Data Analysis:
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=Seaborn)
+![WordCloud](https://img.shields.io/badge/-WordCloud-black?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+
+#### 📚 Basic Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=Streamlit)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=Google-Cloud)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=Microsoft-Excel)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+
+#### 🌱 Currently Learning:
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=Google-Cloud)
+![LLM](https://img.shields.io/badge/-LLM-black?style=flat-square)
+
+---
+
+### 🎯 Goals
+
+- **2025**: Land my first full-time role in Data Science and keep building real-world projects focused on automation and insights.  
+- **2026**: Start exploring cloud-based solutions and open-source tools through personal projects and collaborations.  
+- **2027 and beyond**: Keep developing AI-powered tools, contribute to research, and support the data community through learning, sharing, and mentorship.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/julio-c-y-martins-55469319a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/juliocymartins" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/julio.martins92/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/julio.martins.5" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
+</p>
