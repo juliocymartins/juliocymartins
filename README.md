@@ -70,8 +70,7 @@ I'm a passionate data enthusiast with a background in Business Information Techn
 ### 🎯 Goals
 
 - **2025**: Land my first full-time role in Data Science and keep building real-world projects focused on automation and insights.  
-- **2026**: Start exploring cloud-based solutions and open-source tools through personal projects and collaborations.  
-- **2027 and beyond**: Keep developing AI-powered tools, contribute to research, and support the data community through learning, sharing, and mentorship.
+- **2026 and beyond**: Keep developing AI-powered tools, contribute to research, and support the data community through learning, sharing, and mentorship.
 
 ---
 
