@@ -18,7 +18,7 @@
 
 I'm a passionate data enthusiast with a background in Business Information Technology. I'm currently focused on developing my skills in:
 
-* **Data Analysis & Visualization**: I love turning data into insights using tools like Python, Power BI, and PostgreSQL.
+* **Data Analysis & Visualization**: I love turning data into insights using tools like Python, Power BI, and SQL.
 
 * **Machine Learning & NLP**: My main focus is on classification problems — especially those involving imbalanced data — and natural language processing. I'm working with models like BERT and building LLM-based solutions for tasks such as sentiment analysis and phishing detection. I enjoy refining models through feature engineering and hyperparameter tuning. I've also worked on regression and time series projects to better understand how other areas of data science work.
 
