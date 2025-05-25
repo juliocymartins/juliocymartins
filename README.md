@@ -20,11 +20,11 @@ I'm a passionate data enthusiast with a background in Business Information Techn
 
 * **Data Analysis & Visualization**: I love turning data into insights using tools like Python, Pandas, Power BI, and PostgreSQL.
 
-* **Machine Learning & NLP**: My main focus is on classification problems — especially those involving imbalanced data — and natural language processing. I'm working with models like BERT and building LLM-based solutions for tasks such as sentiment analysis and phishing detection. I enjoy refining models through feature selection and hyperparameter tuning.
+* **Machine Learning & NLP**: My main focus is on classification problems — especially those involving imbalanced data — and natural language processing. I'm working with models like BERT and building LLM-based solutions for tasks such as sentiment analysis and phishing detection. I enjoy refining models through feature engineering and hyperparameter tuning. I've also worked on regression and time series projects to better understand how other areas of data science work.
 
 * **Web Scraping & Data Collection**: I use tools like BeautifulSoup and Selenium to collect real-world data for my projects.
 
-* **Project Portfolio**: I’m constantly improving my portfolio with end-to-end data science projects focused on real-world applications. Some of these include containerized apps using Docker and deployment on Google Cloud Platform (GCP).
+* **Project Portfolio**: I’m constantly improving my portfolio with data science projects focused on real-world applications. Some of these include containerized apps using Docker and deployment on Google Cloud Platform (GCP).
 
 ---
 
