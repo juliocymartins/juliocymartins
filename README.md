@@ -20,6 +20,8 @@ I'm a passionate data enthusiast with a background in Business Information Techn
 
 * **Data Analysis & Visualization**: I love turning data into insights using tools like Python, Power BI, and SQL.
 
+* **Statistical & Foundations**: Strong understanding of statistics, key machine learning algorithms, and evaluation metrics to build robust and reliable models.
+
 * **Machine Learning & NLP**: My main focus is on classification problems — especially those involving imbalanced data — and natural language processing. I'm working with models like BERT and building LLM-based solutions for tasks such as sentiment analysis and phishing detection. I enjoy refining models through feature engineering and hyperparameter tuning. I've also worked on regression and time series projects to better understand how other areas of data science work.
 
 * **Web Scraping & Data Collection**: I have experience using tools like BeautifulSoup and Selenium to gather real-world data for my projects.
@@ -38,18 +40,22 @@ I'm a passionate data enthusiast with a background in Business Information Techn
 #### 🤖 Data Science:
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=NumPy)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat-square&logo=BeautifulSoup)
-![NLTK](https://img.shields.io/badge/-NLTK-black?style=flat-square&logo=NLTK)
 ![RegEx](https://img.shields.io/badge/-RegEx-black?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat-square&logo=BeautifulSoup)
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+![NLTK](https://img.shields.io/badge/-NLTK-black?style=flat-square&logo=NLTK)
+![Transformers](https://img.shields.io/badge/-Transformers-black?style=flat-square&logo=HuggingFace)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 
 #### 📊 Data Analysis:
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=Seaborn)
 ![WordCloud](https://img.shields.io/badge/-WordCloud-black?style=flat-square)
+![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+![Dash](https://img.shields.io/badge/-Dash-black?style=flat-square&logo=Plotly)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
 
 #### 📚 Basic Knowledge:
