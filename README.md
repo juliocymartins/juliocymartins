@@ -75,9 +75,7 @@ I'm a passionate data enthusiast with a background in Business Information Techn
 
 ### 🎯 Goals
 
-- **2025**: Complete my Data Science bootcamp at **Le Wagon** and continue enhancing my portfolio with practical projects.
-- **2026**: Land my first full-time role in Data Science and keep building real-world projects focused on automation and insights.  
-- **2027 and beyond**: Keep developing AI-powered tools, contribute to research, and support the data community through learning, sharing, and mentorship.
+- **2026**: Keep developing AI-powered tools, contribute to research, and support the data community through learning, sharing, and mentorship.
 
 ---
 
